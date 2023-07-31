@@ -1,0 +1,53 @@
+{
+  "actsLike": "default",
+  "scale": 0.7,
+  "antialiasing": true,
+  "arguments": {
+      "noHolds": true,
+      "notes":{
+        "sheet": "bala",
+        "up":{
+          "prefix": "bullet arrow0"
+        },
+        "down":{
+          "prefix": "bullet arrow0"
+        },
+        "left":{
+          "prefix": "bullet arrow0"
+        },
+        "right":{
+          "prefix": "bullet arrow0"
+        }
+
+      },
+      "splashes":{
+        "alpha": 1,
+        "sheet": "bala",
+        "scale":1,
+        "left":{
+          "framerate": 30,
+          "offsetX": -10,
+          "offsetY": -90,
+          "prefix": "bullet arrow touch0"
+        },
+        "up":{
+          "framerate": 30,
+          "offsetX": -20,
+          "offsetY": -90,
+          "prefix": "bullet arrow touch0"
+        },
+        "down":{
+          "framerate": 30,
+          "offsetX": -20,
+          "offsetY": -90,
+          "prefix": "bullet arrow touch0"
+        },
+        "right":{
+          "framerate": 30,
+          "offsetX": -5,
+          "offsetY": -90,
+          "prefix": "bullet arrow touch0"
+        }
+      }
+  }
+}
