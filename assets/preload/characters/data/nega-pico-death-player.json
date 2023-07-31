@@ -1,0 +1,50 @@
+{
+	"charOffset": [
+		0,
+		300
+	],
+	"camOffset": [
+		150,
+		150
+	],
+	"singDur": 4,
+	"spritesheet": "nega-pico-death",
+	"anims": [
+		{
+			"prefix": "PICO DED0",
+			"offsets": [
+				1,
+				-1
+			],
+			"fps": 24,
+			"name": "firstDeath",
+			"looped": false
+		},
+		{
+			"prefix": "PICO DED loop",
+			"offsets": [
+				1,
+				-141
+			],
+			"fps": 24,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"prefix": "PICO DED press",
+			"offsets": [
+				24,
+				201
+			],
+			"fps": 24,
+			"name": "deathConfirm",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "bf",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFF31B0D1"
+}

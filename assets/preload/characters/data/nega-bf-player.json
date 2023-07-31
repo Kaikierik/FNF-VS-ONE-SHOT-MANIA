@@ -1,0 +1,120 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"camOffset": [
+		-220,
+		-120
+	],
+	"anims": [
+		{
+			"offsets": [
+				-18,
+				50
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-45,
+				69
+			],
+			"fps": 24,
+			"prefix": "up",
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-14,
+				44
+			],
+			"fps": 24,
+			"prefix": "left",
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-17,
+				27
+			],
+			"fps": 24,
+			"prefix": "right",
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"fps": 24,
+			"prefix": "down",
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-44,
+				67
+			],
+			"fps": 24,
+			"prefix": "up",
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"offsets": [
+				-11,
+				27
+			],
+			"fps": 24,
+			"prefix": "right",
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"offsets": [
+				-12,
+				44
+			],
+			"fps": 24,
+			"prefix": "left",
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"fps": 24,
+			"prefix": "down",
+			"name": "singDOWNmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-8,
+				177
+			],
+			"fps": 24,
+			"prefix": "bf trans",
+			"name": "trans",
+			"looped": false
+		}
+	],
+	"spritesheet": "nega-bf",
+	"singDur": 4,
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "bf",
+	"beatDancer": false,
+	"healthColor": "0xFF31B0D1",
+	"format": "andromeda"
+}

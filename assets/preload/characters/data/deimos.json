@@ -1,0 +1,111 @@
+{
+	"charOffset": [
+		-90,
+		0
+	],
+	"singDur": 6.1,
+	"scale": 1,
+	"spritesheet": "deimos",
+	"anims": [
+		{
+			"prefix": "left 0",
+			"offsets": [
+				-305,
+				-69
+			],
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "down0",
+			"offsets": [
+				-269,
+				-15
+			],
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "right 0",
+			"offsets": [
+				-148,
+				-30
+			],
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "up 0",
+			"offsets": [
+				-195,
+				-41
+			],
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "deimos idle 0",
+			"offsets": [
+				-151,
+				-27
+			],
+			"fps": 24,
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"prefix": "left angry0",
+			"offsets": [
+				-185,
+				-67
+			],
+			"fps": 24,
+			"name": "singLEFT-alt",
+			"looped": false
+		},
+		{
+			"prefix": "down angry0",
+			"offsets": [
+				-124,
+				-13
+			],
+			"fps": 24,
+			"name": "singDOWN-alt",
+			"looped": false
+		},
+		{
+			"prefix": "right angry0",
+			"offsets": [
+				-81,
+				-47
+			],
+			"fps": 24,
+			"name": "singRIGHT-alt",
+			"looped": false
+		},
+		{
+			"prefix": "up angry0",
+			"offsets": [
+				-212,
+				-60
+			],
+			"fps": 24,
+			"name": "singUP-alt",
+			"looped": false
+		}
+	],
+	"camOffset": [
+		320,
+		-100
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "dad",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFFAF66CE"
+}

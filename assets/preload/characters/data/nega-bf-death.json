@@ -1,0 +1,50 @@
+{
+	"charOffset": [
+		0,
+		300
+	],
+	"camOffset": [
+		90,
+		90
+	],
+	"singDur": 4,
+	"spritesheet": "nega-bf-death",
+	"anims": [
+		{
+			"prefix": "bf dead start0",
+			"offsets": [
+				-33,
+				-58
+			],
+			"fps": 24,
+			"name": "firstDeath",
+			"looped": false
+		},
+		{
+			"prefix": "bf dead loop",
+			"offsets": [
+				-28,
+				-55
+			],
+			"fps": 24,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"prefix": "bf dead confirm",
+			"offsets": [
+				-1,
+				0
+			],
+			"fps": 24,
+			"name": "deathConfirm",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "bf",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFF31B0D1"
+}

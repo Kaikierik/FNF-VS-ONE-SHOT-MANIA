@@ -1,0 +1,140 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"camOffset": [
+		-70,
+		-50
+	],
+	"anims": [
+		{
+			"offsets": [
+				13,
+				54
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-73,
+				55
+			],
+			"fps": 24,
+			"prefix": "up0",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				38,
+				42
+			],
+			"fps": 24,
+			"prefix": "left0",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-86,
+				60
+			],
+			"fps": 24,
+			"prefix": "right0",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-20,
+				58
+			],
+			"fps": 24,
+			"prefix": "down0",
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-56,
+				56
+			],
+			"fps": 24,
+			"prefix": "up miss",
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"offsets": [
+				-84,
+				61
+			],
+			"fps": 24,
+			"prefix": "right miss",
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"offsets": [
+				38,
+				41
+			],
+			"fps": 24,
+			"prefix": "left miss",
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"offsets": [
+				-8,
+				66
+			],
+			"fps": 24,
+			"prefix": "down miss",
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"offsets": [
+				-19,
+				64
+			],
+			"fps": 24,
+			"prefix": "hey",
+			"name": "hey",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-38,
+				89
+			],
+			"fps": 24,
+			"prefix": "dodge",
+			"looped": false,
+			"name": "dodge"
+		},
+		{
+			"prefix": "pico reaction",
+			"offsets": [
+				-28,
+				85
+			],
+			"fps": 24,
+			"name": "final",
+			"looped": false
+		}
+	],
+	"spritesheet": "nega-pico",
+	"singDur": 4,
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "bf",
+	"beatDancer": false,
+	"healthColor": "0xFF31B0D1",
+	"format": "andromeda"
+}
